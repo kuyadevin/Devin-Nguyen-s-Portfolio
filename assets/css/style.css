@@ -1,17 +1,22 @@
+* {
+    background-color: darkgrey;
+}
 .header {
     padding:20px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color:dodgerblue;
+    background-color:rgba(84, 128, 65, 0.699);
     color:whitesmoke;
 }
 
 .header h1 {
     display:inline-block;
     font-size: 50px;
+    background: none;
 }
 
 .header p {
     display: inline;
+    background: none;
 }
 
 .header div {
@@ -19,14 +24,28 @@
     margin-right: 20px;
     float: right;
     font-size: 20px;
+    background: none;
 }
 
 .header div ul {
     list-style-type: none;
+    background: none;
 }
 
 .header div ul li {
     display:inline-block;
     margin-left: 25px;
     text-decoration: underline;
+    background: none;
+}
+
+div h2 {
+    font-size: 40px;
+    color: white;
+}
+
+.AboutMep {
+    display: inline;
+    justify-content: right;
+    color: white;
 }

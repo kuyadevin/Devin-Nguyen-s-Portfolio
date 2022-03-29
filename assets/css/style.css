@@ -34,9 +34,11 @@
 
 .header div ul li {
     display:inline-block;
+    position:relative;
     margin-left: 25px;
     text-decoration: underline;
     background: none;
+    color: white;
 }
 
 div h2 {
@@ -48,4 +50,30 @@ div h2 {
     display: inline;
     justify-content: right;
     color: white;
+    margin-left: 250px;
+}
+
+.AboutMe {
+    color: white;
+}
+
+a {
+    color: white;
+    background: none;
+}
+
+img {
+    width: 240px;
+    height: 320px;
+    display: block;
+    margin-left: 250px;
+    margin-right: auto;
+}
+
+.AboutMe::h2
+
+@media screen and (max-width: 768px) {
+    a {
+      visibility: hidden;
+    }
 }

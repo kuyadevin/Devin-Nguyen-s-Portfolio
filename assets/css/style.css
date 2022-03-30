@@ -41,21 +41,27 @@
     color: white;
 }
 
-div h2 {
+h2 {
     font-size: 40px;
     color: white;
 }
 
 .AboutMep {
-    display: inline;
+    display: block;
     justify-content: right;
     color: white;
-    margin-left: 250px;
+    background: none;
 }
 
 .AboutMe {
     color: white;
+    border: 3px solid;
+    border-color: white;
+    display: flexbox;
+    flex: auto;
+    background:linear-gradient(rgba(84, 128, 65, 0.699), black)
 }
+
 
 a {
     color: white;
@@ -63,14 +69,26 @@ a {
 }
 
 img {
-    width: 240px;
-    height: 320px;
-    display: block;
-    margin-left: 250px;
+    width: 120px;
+    height: 160px;
+    display: inline;
     margin-right: auto;
 }
 
-.AboutMe::h2
+.MyWork img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+    height: fit-content;
+    align-content: center;
+}
+
+.MyWork {
+    position: relative;
+    text-align: center;
+    color:white
+}
 
 @media screen and (max-width: 768px) {
     a {

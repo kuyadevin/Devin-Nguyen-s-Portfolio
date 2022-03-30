@@ -87,8 +87,42 @@ img {
 .MyWork {
     position: relative;
     text-align: center;
-    color:white
+    color:white;
+    border-style: solid;
+    border-width: 3px;
+    background:linear-gradient(rgba(84, 128, 65, 0.699), black);
+    height: fit-content;
 }
+
+.LandingPage {
+    position: fixed;
+    bottom: 8px;
+    left:100px;
+    background:none
+}
+
+.Grid{
+    display: grid;
+    width: 100%;
+    grid-template-columns: auto auto;
+    align-content: center;
+    place-content: center;
+    background: none;
+    grid-gap: 30px;
+}
+ .LP{
+     background: none;
+ }
+.Grid img {
+height: 100%;
+margin-bottom:10px
+}
+
+.Placeholder {
+    background: none;
+    margin-top:-30px
+}
+
 
 @media screen and (max-width: 768px) {
     a {

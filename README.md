@@ -14,7 +14,7 @@ The following is my portfolio meant to be viewd by future employers. It includes
 
  One of the main aspects of this application was creating a grid. It was something I struggled with a bit at first but after a while I was able to get it down. Here is the following CSS work for my grid.
 
-[Grid Code]()
+[Grid Code](https://github.com/kuyadevin/Devin-Nguyen-s-Portfolio/blob/main/assets/Screenshot%20(14)%20-%20Copy.png)
 
 ## Link
 

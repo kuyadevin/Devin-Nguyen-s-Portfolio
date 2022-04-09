@@ -2,7 +2,7 @@
 
 The following is my portfolio meant to be viewd by future employers. It includes so of my past projects and also has palceholders for me future projects! I will be constantly updating this profile as I make more and more projects.
 
-# Prerequisites and Installations
+## Prerequisites and Installations
 
 This is a simple application and just requires a web browser. To use the application, simply clicked on the different tags in the navigation bar and the UI will autonmatically scroll to the section. Clicking on the pictures of my projects will also take you to the deployed website of that application.
 

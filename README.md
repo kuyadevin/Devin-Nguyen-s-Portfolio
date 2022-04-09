@@ -18,4 +18,4 @@ The following is my portfolio meant to be viewd by future employers. It includes
 
 ## Link
 
-[Devin's Portfolio"](https://kuyadevin.github.io/Devin-Nguyen-s-Portfolio/)
+["Devin's Portfolio"](https://kuyadevin.github.io/Devin-Nguyen-s-Portfolio/)
